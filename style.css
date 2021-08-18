@@ -1,0 +1,18 @@
+.body_background 
+{
+	
+    background-image: url("https://i.pinimg.com/originals/85/5b/70/855b707cfa220acb8b7575cd3e0f0436.gif");
+     background-position: center;
+     background-size: cover;
+#myCanvas
+{
+    background-image:url("https://birthdaycake24.com/uploads/worigin/2019/05/10/banner-birthday-cake-for-mom-with-name-min5cd54e9a4d0d0_3b33fd71353381ca28d6b3b30080ee7b.jpg");
+    background-color: white;
+    border-radius: ridge;
+    border-color:darkviolet;
+}
+
+.button
+{
+    background-color:deeppink;
+}
